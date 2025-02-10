@@ -23,7 +23,7 @@ Lose: Sound Effect by <a href="https://pixabay.com/users/qbertapply-47746050/?ut
 ```
 .
 ├── README.md
-├── frontend
+├── docs
 │   ├── css
 │   │   └── style.css
 │   ├── img
