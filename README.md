@@ -4,6 +4,14 @@ A tiny game where you guess if a thumb is up or down
 # Personal Goal
 Improve own coding skills
 
+# Images
+Thumb: https://emojigraph.org/nb/thumbs-up-medium-light-skin-tone/
+
+# Sounds
+Win: Sound Effect by <a href="https://pixabay.com/users/u_3bsnvt0dsu-48554563/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=295086">u_3bsnvt0dsu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=295086">Pixabay</a>
+
+Lose: Sound Effect by <a href="https://pixabay.com/users/qbertapply-47746050/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=278635">Qbertapply</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=278635">Pixabay</a>
+
 # Languages and Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
