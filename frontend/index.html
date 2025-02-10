@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Thumb</title>
+  <link rel="stylesheet" href="../frontend/css/style.css">
+  <meta name="description" content="A fun guessing game where you predict if the thumb will be up or down. Test your luck and score high!">
+</head>
+
+<body>
+  <h1>Guess the Thumb!</h1>
+
+  <div id="intro-text">
+    <p>This is a simple game where you guess if the thumb is going to be up or down!</p>
+    <p>The more times you guess correctly, the higher the score is going to be!</p>
+    <p>Are you ready to play?</p>
+  </div>
+
+  <div id="choice">
+    <p><strong>Please press on your guess:</strong></p>
+    <button id="upButton" aria-label="Guess Thumbs Up">
+      <img src="../frontend/img/thumbs-up.png" alt="Thumbs up emoji" style="width:30px;height:30px;" />Thumbs up!
+    </button>
+    <p><strong>or</strong></p>
+    <button id="downButton" aria-label="Guess Thumbs Down">
+      <img src="../frontend/img/thumbs-down.png" alt="Thumbs down emoji" style="width:30px;height:30px;" />Thumbs down!
+    </button>
+  </div>
+
+  <div id="own">
+    <p><strong>You chose: </strong><span id="thumb">(Nothing yet!)</span></p>
+  </div>
+
+  <div id="opponent">
+    <p><strong>Correct thumb: </strong> <span id="result">(Awaiting guess!)</span></p>
+  </div>
+
+  <div id="points">
+    <p><strong>Score: </strong><span id="score">0</span></p>
+  </div>
+
+  <div id="replay">
+    <button id="playAgainButton" aria-label="Play Again">Reset</button>
+  </div>
+
+  <script src="../frontend/js/script.js"></script>
+</body>
+</html>
