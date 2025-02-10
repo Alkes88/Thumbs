@@ -1,5 +1,6 @@
 # Description
 A tiny game where you guess if a thumb is up or down. Points if you guess right.
+Play here: https://alkes88.github.io/Thumbs/
 
 # Personal Goal
 Improve own coding skills
