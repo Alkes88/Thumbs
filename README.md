@@ -23,7 +23,7 @@ Lose: Sound Effect by <a href="https://pixabay.com/users/qbertapply-47746050/?ut
 ```
 .
 ├── README.md
-├── frontend
+├── docs
 │   ├── css
 │   │   └── style.css
 │   ├── img
@@ -35,10 +35,7 @@ Lose: Sound Effect by <a href="https://pixabay.com/users/qbertapply-47746050/?ut
 │   └── sound
 │       ├── lose.mp3
 │       └── win.mp3
-├── site.webmanifest
-├── webpack.common.js
-├── webpack.config.dev.js
-└── webpack.config.prod.js
+└── site.webmanifest
 ```
 
 # To be implemented
