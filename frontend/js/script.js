@@ -19,8 +19,8 @@ function thumbResult() {
 // Check if the user choice is correct
 function handleGuess(userGuess) {
   const thumb = thumbResult();
-  ownChoice.innerHTML = userGuess === 'up' ? '<img src="../img/thumbs-up.png" style="width:30px;height:30px;"  alt="thumbs up" />' : '<img src="../img/thumbs-down.png" style="width:30px;height:30px;"  alt="thumbs down" />';
-  endResult.innerHTML = thumb === 'up' ? '<img src="../img/thumbs-up.png" style="width:30px;height:30px;" alt="thumbs up" />' : '<img src="../img/thumbs-down.png" style="width:30px;height:30px;" alt="thumbs down" />';
+  ownChoice.innerHTML = userGuess === 'up' ? '<img src="img/thumbs-up.png" style="width:30px;height:30px;"  alt="thumbs up" />' : '<img src="img/thumbs-down.png" style="width:30px;height:30px;"  alt="thumbs down" />';
+  endResult.innerHTML = thumb === 'up' ? '<img src="img/thumbs-up.png" style="width:30px;height:30px;" alt="thumbs up" />' : '<img src="img/thumbs-down.png" style="width:30px;height:30px;" alt="thumbs down" />';
 
   // wins and losses
   if (userGuess === thumb) {

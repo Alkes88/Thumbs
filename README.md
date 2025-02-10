@@ -1,5 +1,5 @@
 # Description
-A tiny game where you guess if a thumb is up or down
+A tiny game where you guess if a thumb is up or down. Points if you guess right.
 
 # Personal Goal
 Improve own coding skills
