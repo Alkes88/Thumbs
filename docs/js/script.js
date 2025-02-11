@@ -13,7 +13,7 @@ const loseSound = new Audio("sound/lose.mp3");
 
 // Make random choice for the thumb
 function thumbResult() {
-  return Math.random() < 0.5 ? 'up' : 'down';
+  return Math.random() <= 0.5 ? 'up' : 'down';
 }
 
 // Check if the user choice is correct
